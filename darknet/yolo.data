@@ -1,5 +1,0 @@
-classses = 41
-train = train.txt
-valid = val.txt
-names = yolo.names
-backup = backup
